@@ -5,13 +5,14 @@
 - 🏠 Brasileiro, moro em Belém, PA <br>
 - 🔭 Atualmente sou participante do Santander Bootcamp Fullstack Developer pela DIO. <br>
 - 🌱 Possuo vivencia com: <br>
-  <ul>
-       <li>HTML</li>
-       <li>CSS</li>
-       <li>JavaScript</li>
-       <li>Angular</li>
-       <li>SQL</li>
-       <li>Python</li><br>
+  <br><ul>
+         <li>HTML</li>
+         <li>CSS</li>
+         <li>JavaScript</li>
+         <li>Angular</li>
+         <li>SQL</li>
+         <li>Python</li><br>
+      </ul>
 - 📫 Como falar comigo... 
 </div>
  
