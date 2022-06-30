@@ -1,4 +1,4 @@
-### Olá galera! 👋
+### Olá pessoal! 👋
 
 <div>
 - 💻 Desenvolvedor Web Full-Stack <br>
