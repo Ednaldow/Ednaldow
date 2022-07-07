@@ -12,7 +12,10 @@
          <li>Angular</li>
          <li>SQL</li>
          <li>Python</li><br>
-      </ul>
+      </ul><br>
+      
+<a href='https://ednaldow.github.io/Site_Portfolio/'>Clique aqui e veja o Portfólio --></a><br>
+
 - 📫 Como falar comigo... 
 </div>
  
