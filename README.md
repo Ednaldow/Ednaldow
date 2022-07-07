@@ -14,7 +14,7 @@
          <li>Python</li><br>
       </ul><br>
       
-<a href='https://ednaldow.github.io/Site_Portfolio/'>Clique aqui e veja o Portfólio --></a><br>
+<a href='https://ednaldow.github.io/Site_Portfolio/'>Clique aqui para ver meu Portfólio</a><br>
 
 - 📫 Como falar comigo... 
 </div>
