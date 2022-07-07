@@ -10,6 +10,7 @@
          <li>CSS</li>
          <li>JavaScript</li>
          <li>Angular</li>
+         <li>Java</li>
          <li>SQL</li>
          <li>Python</li><br>
       </ul><br>
