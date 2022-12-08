@@ -1,15 +1,14 @@
 ### Olá pessoal! 👋
 
 <div>
-- 💻 Desenvolvedor Web Full-Stack Júnior <br>
+- 💻 Desenvolvedor Web Júnior <br>
 - 🏠 Brasileiro, moro em Belém, PA <br>
-- 🔭 Atualmente sou participante do Santander Bootcamp Fullstack Developer pela DIO. <br>
+- 🔭 Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na UNAMA. <br>
 - 🌱 Possuo vivencia com: <br>
   <br><ul>
          <li>HTML</li>
          <li>CSS</li>
          <li>JavaScript</li>
-         <li>Angular</li>
          <li>Java</li>
          <li>SQL</li>
          <li>Python</li><br>
