@@ -9,7 +9,7 @@
          <li>HTML</li>
          <li>CSS</li>
          <li>JavaScript</li>
-         <li>SQL</li>
+         <li>MySQL</li>
          <li>Python</li><br>
       </ul><br>
       
